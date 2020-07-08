@@ -16,7 +16,7 @@ Astronomy hardware/software for Raspberry PI
 ### Case
 ### Solution
 ## Software
-* Work with AstroBerry distribution
-* Provide drivers for INDI
-* Provide a shim for Alpaca-ASCOM
+* Work with [AstroBerry](https://astroberry.io)
+* Provide drivers for [INDI](https://indilib.org) 
+* Provide a shim for [Alpaca-ASCOM](https://ascom-standards.org/Developer/Alpaca.htm)
 
