@@ -4,14 +4,16 @@ Astronomy hardware/software for Raspberry PI
 ### PI Hat
 #### A small PI hat
 * 5 12V 
-  * 3A-capable connectors
+  * 4 3A-capable connectors
+  * 1 3A-capabel on/off connector
   * DC Barrel jack 5.5mm 2.1mm
 * 3 Temperature sensor jacks
   * 3.5mm audio jack for special temperature probes
+  * DS1280 sensors
 * 1 External sensor pod connector  
   * RJ-12 6 pin connector
   * Must use a 6 connector cable
-* 2 Dew heater ports
+* 3 Dew heater ports
   * RCA ports
   * All ports independent
 * 1 Focuser port
