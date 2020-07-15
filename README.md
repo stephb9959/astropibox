@@ -24,7 +24,9 @@ Astronomy hardware/software for Raspberry PI
 * 1 RJ-45 Ethernet port
   * Provide wired connection (wireless a good backup)
 * 1 LED strip
-* 1 M.2 Drive 
+* 1 M.2 Drive
+* Autoguide port
+  * Connect to the autoguide port and allow control of the mount.
 
 ### Case
 ### Solution
