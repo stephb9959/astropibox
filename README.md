@@ -4,7 +4,7 @@ Astronomy hardware/software for Raspberry PI
 ### PI Hat
 #### A small PI hat
 * 1 12V 10A DC Input
-* 4 12V 
+* 4 12V DC output 
   * 3 3A-capable connectors switchable
   * 1 3A-capabel always on
   * DC Barrel jack 5.5mm 2.1mm
