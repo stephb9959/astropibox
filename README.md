@@ -50,18 +50,18 @@ Astronomy hardware/software for Raspberry PI
 #### On the RaspBerry PI, the following pins are used:
 * GPIO5:  DSLR Focus
 * GPIO6:  DSLR Shutter
-* GPIO17: dew 1 PWM
-* GPIO27: dew 2 PWM
+* GPIO12: dew 1 PWM
+* GPIO13: dew 2 PWM
 * GPIO22: 
-* GPIO13: temp1
-* GPIO19: temp2
+* GPIO20: temp1
+* GPIO21: temp2
 * GPIO26: 
 * GPIO16: reset signal
 * GPIO18: IRQ for AUX1
 * GPIO23: IRQ for AUX2
 * GPIO24: switched port 1
 * GPIO25: switched port 2
-* GPIO12: switched port 3
+* GPIO19: switched port 3
 * GPIO16: RESET (active low)
 #### There is also a serial EEPROM on the board at the default address
 #### AUX ports
